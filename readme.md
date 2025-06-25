@@ -39,7 +39,6 @@ This repository covers core **Data Structures and Algorithms (DSA)** using **Jav
 
 ### ✅ Chapter 6: Tree
 
-- Binary Tree
 - Binary Search Tree (BST)
 - Insert, Delete, Search in BST
 - Min, Max in BST
