@@ -57,6 +57,10 @@ This repository covers core **Data Structures and Algorithms (DSA)** using **Jav
 - Maximum occures in string
 - Palindrome
 
+### ✅ Chapter 9: Basic js Q & A
+
+- Common questions
+
 ---
 
 ## 🛠 Language
