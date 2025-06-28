@@ -46,7 +46,6 @@ This repository covers core **Data Structures and Algorithms (DSA)** using **Jav
 
 ### ✅ Chapter 7: Graph
 
-- Graph representations (adjacency list/matrix)
 - Make graph & add vertex
 - Connect vertex
 - Remove Edge
